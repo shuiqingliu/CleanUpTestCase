@@ -3,6 +3,7 @@ Introduction
     豌豆荚极速清理应用清理测试demo,通过uiautomator实现
 
 * demo
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=97yTBkCSOB8
 " target="_blank"><img src="http://img.youtube.com/vi/97yTBkCSOB8/0.jpg" 
 alt="uiautomator" width="240" height="180" border="10" /></a>
